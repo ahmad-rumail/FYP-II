@@ -8,6 +8,8 @@ TagManager:
   - 2
   - 3
   - 4
+  - grid
+  - Grid
   layers:
   - Default
   - TransparentFX

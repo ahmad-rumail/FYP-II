@@ -30,24 +30,27 @@ public class GameManager : MonoBehaviour
             return false; // Return false if gridArray is null
         }
 
-        // Check if all blocks are in correct positions
+        // Iterate through each object in the grid
         for (int x = 0; x < gridManager.gridSizeX; x++)
         {
+            // Get the correct tag for the current object
+            string correctTag = correctTagsSequence[x];
+
+            // Check if the blocks in the current object match the correct tag sequence
             for (int y = 0; y < gridManager.gridSizeY; y++)
             {
-                // Get the block at the current position
                 Transform currentBlock = gridArray[x, y];
 
-                // Check if the current block exists and has the correct tag
-                if (currentBlock != null && currentBlock.CompareTag(correctTagsSequence[y * gridManager.gridSizeX + x]) == false)
+                // Check if the block exists and has the correct tag
+                if (currentBlock == null || !currentBlock.CompareTag(correctTag))
                 {
-                    // If any block is not in the correct position, return false
+                    // If any block does not match the correct tag, return false
                     return false;
                 }
             }
         }
 
-        // If all blocks are in correct positions, return true
+        // If all objects have the correct blocks in the correct positions, return true
         return true;
     }
 }
