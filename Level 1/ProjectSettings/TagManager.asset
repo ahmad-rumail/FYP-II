@@ -4,12 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - 1
-  - 2
-  - 3
-  - 4
-  - grid
-  - Grid
+  - E
+  - O
+  - P
+  - R
+  - I
+  - N
+  - T
+  - Q1
+  - H
+  - L1
+  - (
+  - )
   layers:
   - Default
   - TransparentFX
@@ -46,7 +52,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: font
-    uniqueID: 4079646437
     locked: 0
