@@ -12,11 +12,15 @@ public class GameManager : MonoBehaviour
     public Transform dropZone; // Reference to the drop zone
 
     public List<Draggable> draggables = new List<Draggable>();
-
-    private void Start()
-    {
-        checkButton.onClick.AddListener(OnCheckButtonClicked); // Add listener to the button
-    }
+    public GameObject winPanel;
+    public GameObject losePanel;
+    public GameObject missingPanel;
+private void Start()
+{
+    checkButton.onClick.AddListener(OnCheckButtonClicked); // Add listener to the button
+    // Set button text to empty string
+    checkButton.GetComponentInChildren<TextMeshProUGUI>().text = "";
+}
 
     private void OnCheckButtonClicked()
     {
@@ -29,24 +33,33 @@ public class GameManager : MonoBehaviour
 
         if (correctSequence)
         {
-            consoleText.text = "Pass";
+            //consoleText.text = "Pass";
+            winPanel.SetActive(true);
+            losePanel.SetActive(false);
+            missingPanel.SetActive(false);
         }
         else
         {
-            consoleText.text = "Fail";
+            //consoleText.text = "Fail";
+            winPanel.SetActive(false);
+            losePanel.SetActive(true);
+            missingPanel.SetActive(false);
         }
 
         // Check for missing elements
         if (sequence.Count != draggables.Count)
         {
-            consoleText.text += ", Elements missing";
+           // consoleText.text += ", Elements missing";
+            winPanel.SetActive(false);
+            losePanel.SetActive(false);
+            missingPanel.SetActive(true);
         }
     }
 
     private bool CheckSequence(List<string> sequence)
     {
         // Define the correct sequence of tags
-        List<string> correctSequence = new List<string> { "P", "R", "I", "N", "T", "(", "Q1", "H", "E", "L1", "L1", "O", "Q1",  ")" };
+        List<string> correctSequence = new List<string> { "P", "R", "I", "N", "T", "(", "Q1", "H", "E", "L1", "L1", "O", "Q1", ")" };
 
         // Check if the sequence matches the correct sequence
         return sequence.SequenceEqual(correctSequence);
