@@ -595,6 +595,7 @@ GameObject:
   - component: {fileID: 89837211}
   - component: {fileID: 89837213}
   - component: {fileID: 89837212}
+  - component: {fileID: 89837214}
   m_Layer: 5
   m_Name: LosePanel (1)
   m_TagString: Untagged
@@ -660,6 +661,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 89837210}
   m_CullTransparentMesh: 1
+--- !u!114 &89837214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89837210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bedcc0f980564a249b18db269b59d7ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  retryButton: {fileID: 275245439}
+  mainMenuButton: {fileID: 610492432}
+  nextLevelButton: {fileID: 275245439}
 --- !u!1 &127750795
 GameObject:
   m_ObjectHideFlags: 0
@@ -1072,7 +1088,7 @@ GameObject:
   - component: {fileID: 227135956}
   - component: {fileID: 227135955}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: HomeButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1530,7 +1546,7 @@ GameObject:
   - component: {fileID: 275245440}
   - component: {fileID: 275245439}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: RetryButton (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1852,7 +1868,7 @@ GameObject:
   - component: {fileID: 288175403}
   - component: {fileID: 288175402}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: RetryButton (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3387,7 +3403,7 @@ GameObject:
   - component: {fileID: 610492433}
   - component: {fileID: 610492432}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: HomeButton (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5020,6 +5036,7 @@ GameObject:
   - component: {fileID: 1034079020}
   - component: {fileID: 1034079022}
   - component: {fileID: 1034079021}
+  - component: {fileID: 1034079023}
   m_Layer: 5
   m_Name: 'MissingPanel '
   m_TagString: Untagged
@@ -5085,6 +5102,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034079019}
   m_CullTransparentMesh: 1
+--- !u!114 &1034079023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034079019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bedcc0f980564a249b18db269b59d7ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  retryButton: {fileID: 288175402}
+  mainMenuButton: {fileID: 288175402}
+  nextLevelButton: {fileID: 288175402}
 --- !u!1 &1049993898
 GameObject:
   m_ObjectHideFlags: 0
@@ -5211,7 +5243,7 @@ GameObject:
   - component: {fileID: 1111424244}
   - component: {fileID: 1111424243}
   m_Layer: 5
-  m_Name: Button
+  m_Name: NextButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5708,7 +5740,7 @@ GameObject:
   - component: {fileID: 1284896153}
   - component: {fileID: 1284896152}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: Retrybutton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7575,6 +7607,7 @@ GameObject:
   - component: {fileID: 1901005911}
   - component: {fileID: 1901005913}
   - component: {fileID: 1901005912}
+  - component: {fileID: 1901005914}
   m_Layer: 5
   m_Name: WinPanel
   m_TagString: Untagged
@@ -7640,6 +7673,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1901005910}
   m_CullTransparentMesh: 1
+--- !u!114 &1901005914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1901005910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bedcc0f980564a249b18db269b59d7ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  retryButton: {fileID: 1284896152}
+  mainMenuButton: {fileID: 227135955}
+  nextLevelButton: {fileID: 1111424243}
 --- !u!1 &1919049380
 GameObject:
   m_ObjectHideFlags: 0

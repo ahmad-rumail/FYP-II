@@ -53,12 +53,15 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 
         int newSiblingIndex = placeHolderParent.childCount;
 
+        // Iterate through the children of the parent
         for (int i = 0; i < placeHolderParent.childCount; i++)
         {
+            // Check if the current object's x position is less than the child at index i
             if (this.transform.position.x < placeHolderParent.GetChild(i).position.x)
             {
                 newSiblingIndex = i;
 
+                // If the placeholder is currently ahead of the new position, decrement newSiblingIndex
                 if (placeHolder.transform.GetSiblingIndex() < newSiblingIndex)
                     newSiblingIndex--;
 
@@ -66,8 +69,10 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
             }
         }
 
+        // Set the sibling index of the placeholder to the new position
         placeHolder.transform.SetSiblingIndex(newSiblingIndex);
     }
+
 
     public void OnEndDrag(PointerEventData eventData)
     {
