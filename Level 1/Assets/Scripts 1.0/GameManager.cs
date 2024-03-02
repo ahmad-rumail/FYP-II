@@ -29,6 +29,9 @@ private void Start()
             .Select(d => d.gameObject.tag) // Use tags instead of names
             .ToList();
 
+        // Debug log to check the sequence of tags
+        Debug.Log("Sequence of Tags: " + string.Join(", ", sequence));
+
         bool correctSequence = CheckSequence(sequence);
 
         if (correctSequence)
