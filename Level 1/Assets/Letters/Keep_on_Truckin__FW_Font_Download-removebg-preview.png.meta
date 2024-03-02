@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: e8e0767c7dba8a94783fba9e1d99c1e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a077e83dd5dc48a56fc3ed5a36e5f
+      internalID: -1078331098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 490
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74fd5a84156344f92b66c367219ae5
+      internalID: 2105608931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96847b0d31e734e8df2ed7208883db
+      internalID: -763892380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 490
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bd93cb93096e4f9cf93b5fcac1be1
+      internalID: -1253508704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 490
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31c765da7364e49ae292a88f0d436f
+      internalID: -445008870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 490
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96adff453d5ec949a54e8b7cf0dda8d
+      internalID: -2140755097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 490
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc9a1322b0bf74cbaef568cce993dd
+      internalID: -290376623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 490
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50eee3afa0e9b42a2cc74b46dac052
+      internalID: 720585423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 490
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00768017f8e6a458de5373ee98a86e
+      internalID: -893276109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 435
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b00e8e122c6c534eba81f54937a52aa
+      internalID: -2084387462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 435
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2d333ca183104093d8420bb53790e
+      internalID: 828729732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 435
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade55447405cf8a45a292e14be40c7bb
+      internalID: 765547028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 435
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539c341a1d5ad24eb7f2d83c49fa937
+      internalID: -1198854031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 435
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d189abd290d1f04bbfa3c0aaa148d6f
+      internalID: -215490950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 435
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411db2cbe6f2f1d4ca8170d5672f703b
+      internalID: 1324946432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 435
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a56b7b9f2998ae4fadec3015834ff88
+      internalID: -611993156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 429
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88caa88351cbc49a4fe983fce7b805
+      internalID: -1277264121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 434
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86558a57bf98faf4dbf5b0e74a20b94a
+      internalID: -1056681338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 379
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25d12baaf41734f913c9916df4e0f1
+      internalID: 990976849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 379
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a915ca9f04181584c8e03fd676e1fd05
+      internalID: -207693623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 379
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4fd72471bbb574ebe9ff84cd2717a1
+      internalID: 881372693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 379
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a7df28a5d4be409b9c7cebf27a553
+      internalID: 822292144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 379
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba3136265516f44bfd5f9fbd1bf642
+      internalID: 259857671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 379
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c605eda8eb33e428a751a3b817d3f6
+      internalID: 893810380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 379
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56453400ec39f064aa1837dc6f5fa866
+      internalID: 784243587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 379
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ad469abf492b4aa61cc10ed3fd364
+      internalID: -273971874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 312
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d97fb5f8b7c68408610b7cc4ad4094
+      internalID: -1649918970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 312
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5370f8ae0c49e44b2935b85836085f
+      internalID: 1045790230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 312
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f817e08db238cfa4989e634912814b29
+      internalID: 442334700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba8b631c4c93d4597fe305e6cd58a5
+      internalID: 1449711114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 312
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e180341f3207f409e8be4951372bd9
+      internalID: 1587805809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 312
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f430b33e175543b5fcdbb78bc36f1
+      internalID: 2032286253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 304
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a870a607abcb7b4bbbd2e501a9a0af2
+      internalID: 1216131262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 312
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5bf6bbae54614b9787ae0a5e07a16
+      internalID: 1986281211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 312
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dffc9ed698d2b41a668f5cc15412ed
+      internalID: -392350209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 249
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a04eafca4e9e6478472ddaca6db2c5
+      internalID: -1091663181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f4acce84e35aa4aabc4e5883701901
+      internalID: -1584428636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 256
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c08d3ba6fe0943bfbf31026939004
+      internalID: 576267209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 256
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd564251a226934480167cef3cb10d6
+      internalID: -2144512763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 256
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490240ed5372528498d356a7d75aad20
+      internalID: 2091127321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139ac1e29cde6d4fa0d48844efcf70b
+      internalID: -574405941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e8fb01f7b9ef4bbf98108935fcea1
+      internalID: 921205017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 250
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d80f1468b63f4f94e8872f3022e1a
+      internalID: 599739104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 255
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ad51e22b75924b8d0d664d5d16559
+      internalID: 2045110977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050fc12d453cc84395ac52718d24e8f
+      internalID: -1150511648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 200
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572c70c2e63fd34fabeb6b2343151b3
+      internalID: -551195331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 200
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd54f98fc6554e45a2445983f8f2270
+      internalID: 1713517162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac9b87596c35046a0ac77a71cf60e9
+      internalID: -1361285292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 200
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d3466138e68184392642ba1d145fa5
+      internalID: -177250181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 200
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54631036db7e0244db444773c4c421c8
+      internalID: 980306097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5f1e1bf90f8d4dbd91b32b4db4b96
+      internalID: 870645374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 198
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7bbed57bf085b43b6e919e205ad621
+      internalID: -980019494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 132
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af8713d0976dc4889010025bdd0026
+      internalID: -777423523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ede9f769b7b5440a38fb71f1f92b08
+      internalID: 1358852766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 131
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805d592dd8ad25941aa496f2edd42897
+      internalID: -791451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434396c3085a4348b2b81503a29af51
+      internalID: -855266306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 132
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccad227a40e0eb143837810329f451ea
+      internalID: -24589395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 132
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122da1c11e231e4f9bd87864478764e
+      internalID: -1417607442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 132
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9cdb7047b44a46a1cf9e6c8fa67f7
+      internalID: -1358384099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 131
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ccb34642e629e429fb43b0f7830216
+      internalID: -1244032941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 131
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c2e47a1057804e97d4c89b507e90a
+      internalID: -1184496784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 75
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a393f7dc3a9df742a58d03d973a5d9b
+      internalID: 231450383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96499794aac1b047bc87e2fc1a3ea78
+      internalID: -911975243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720a850428cb7240af14ab3f92dd323
+      internalID: 71318051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 75
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4b5aff0fa3bd46a743b1abfeb711c
+      internalID: -1013348269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 79
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29206e364622bf4eb3d227abb45a263
+      internalID: 2031565613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 93
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c8528cccf5ae43a2618f531a68103
+      internalID: -1287939130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 74
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916f0137f85c8f4c8631ee63e390b7a
+      internalID: -854040416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 75
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d970b555e31a54dbd25d293bfd60dd
+      internalID: 298014596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 70
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8b61ce60509f4784a27af1c3e153b
+      internalID: 88353379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 70
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be27f3f26f4b7547bb4a66cdd436e6f
+      internalID: 1671230638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46667a06290f10549af6cb2c9cb9fd1f
+      internalID: 889791858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ceb968dec1484cab4019abb223949
+      internalID: 571867850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c7d44cea58794384f306561b08ed5
+      internalID: -564870898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab4a5b71041c947a6b8c2b5a5349c7
+      internalID: 908073916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06289d38bbc9d440addcc2390e5dcb3
+      internalID: 82943779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 17
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa9cc54b0857a47960e06f2f2533ae
+      internalID: 364530064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a078cb70f5104fa1c4d5875a5b38c
+      internalID: 971676154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keep_on_Truckin__FW_Font_Download-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 21
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6af19a0070c94886018119ba91287
+      internalID: -1545929679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_0: -1078331098
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_1: 2105608931
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_10: 828729732
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_11: 765547028
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_12: -1198854031
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_13: -215490950
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_14: 1324946432
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_15: -611993156
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_16: -1277264121
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_17: -1056681338
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_18: 990976849
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_19: -207693623
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_2: -763892380
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_20: 881372693
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_21: 822292144
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_22: 259857671
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_23: 893810380
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_24: 784243587
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_25: -273971874
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_26: -1649918970
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_27: 1045790230
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_28: 442334700
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_29: 1449711114
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_3: -1253508704
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_30: 1587805809
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_31: 2032286253
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_32: 1216131262
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_33: 1986281211
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_34: -392350209
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_35: -1091663181
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_36: -1584428636
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_37: 576267209
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_38: -2144512763
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_39: 2091127321
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_4: -445008870
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_40: -574405941
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_41: 921205017
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_42: 599739104
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_43: 2045110977
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_44: -1150511648
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_45: -551195331
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_46: 1713517162
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_47: -1361285292
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_48: -177250181
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_49: 980306097
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_5: -2140755097
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_50: 870645374
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_51: -980019494
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_52: -777423523
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_53: 1358852766
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_54: -791451810
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_55: -855266306
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_56: -24589395
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_57: -1417607442
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_58: -1358384099
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_59: -1244032941
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_6: -290376623
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_60: -1184496784
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_61: 231450383
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_62: -911975243
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_63: 71318051
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_64: -1013348269
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_65: 2031565613
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_66: -1287939130
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_67: -854040416
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_68: 298014596
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_69: 88353379
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_7: 720585423
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_70: 1671230638
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_71: 889791858
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_72: 571867850
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_73: -564870898
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_74: 908073916
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_75: 82943779
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_76: 364530064
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_77: 971676154
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_78: -1545929679
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_8: -893276109
+      Keep_on_Truckin__FW_Font_Download-removebg-preview_9: -2084387462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
