@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 5376d4d0aafb287499dfbbf4a396d72d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 491
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53446062dd1668d4ea03850f61a0dd08
+      internalID: -1924072132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 491
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56792bfa1924c42b7c424c565a29f2
+      internalID: 103777678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 491
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef4236a7c717d46bd23462fb2ef210
+      internalID: -436130311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 491
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d4c17312335b4d9796cd3ee377737
+      internalID: 165220707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 491
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af99a2c7c247454c8d4509b4543e827
+      internalID: -325438508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 491
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c65140fbd7d6f4da4e94bcec13d357
+      internalID: 412514417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 491
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77691afb74225ee4abda53fbffa57386
+      internalID: -227125423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 491
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd76247a6fbb4b4a8a12b787b3bc58d
+      internalID: 2613179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 491
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66ed3c71770eb40b65a495f0606a70
+      internalID: 1677482107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee42b19afd486c46b0822f09bdac8fb
+      internalID: 1300418585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 435
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2144d60da52c6643919082189c2588a
+      internalID: -1525781191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 435
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ed2c1c4f0dca46b20d2168721f3bf
+      internalID: 1695811953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 433
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f65fd9395b23e43bd69a404113c88d
+      internalID: -312378291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 435
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5e1fc5df5b1245b81656fff2822f3
+      internalID: -1756523925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 435
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c0fbcfa46630b4a92aec3eb766a091
+      internalID: -971587669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 435
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce950da8055d7c542b7ce8d9d96b9f73
+      internalID: -1054123733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 435
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00627023bdd90bc46a1abd5f87586a0c
+      internalID: -365764067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 435
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04277d31a9a356e4d972abb7a5e4f78c
+      internalID: 2027331993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 379
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4872c7b64e293749938fb245bb32d8c
+      internalID: 1390032764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 379
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9e41b882a9dc4381063439d96ee48
+      internalID: 811415046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 379
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3e27f4ac56ad4c9241bc597b1bc02
+      internalID: 837789286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 379
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2414160647f8dd4581f288af97ee2f9
+      internalID: -409335281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 379
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1657f953a291543baa539655cb63f2
+      internalID: 1306596111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 380
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0911f3af6c7f640983a7edc86cedf5
+      internalID: -1946635412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 380
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd310e2fcc773442955341051b52ba9
+      internalID: 785065834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 379
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfeef0445198b4ea1ec11fdfc2f117
+      internalID: -525724524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 312
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6ba895e64aa44897035d43f883ebe
+      internalID: 944739121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 312
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46f1bf10d44ca4783ba59c4b62526e
+      internalID: 1402844158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246940d8729433b4b852c49a61edceb8
+      internalID: 660413500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 312
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335131fcab23b94ba9066a0dc095937
+      internalID: 993867677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 312
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0920fc625ddcf4c878b2331e7f6c4e
+      internalID: -934602153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 312
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ac8367be02914e96e79dc1766414f
+      internalID: 92440328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 312
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f78b0d46e1f3945baaf5663cd697a4
+      internalID: -1173677070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c80404d4a36d42af399ab492258bb
+      internalID: 1278328106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 312
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda02b4ded30fc54f9b6da8a8633be53
+      internalID: -1123599428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8f1f78420bae4db9784bd85518213
+      internalID: 1108476679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256c4920c478324997264f0f2bfd458
+      internalID: 877565778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 257
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d57e66c101ef47aefe3f593052aaa
+      internalID: -155080281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 254
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e3d8542b8c0c4cad03f5caab22202
+      internalID: 935630351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba78e1e577dd9644925584d2f31f768
+      internalID: 1008868239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7dc67a22e6ed47a0a01dde0be1b4a
+      internalID: -630969283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0dcd359c0b534497a6f57cad9b66f
+      internalID: 1372442596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 256
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e6958ddf0f6849a0419ca1e854e5e
+      internalID: 1836201076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb812b822442643b9fd7f5017667a4
+      internalID: 1523181978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3e490ef5501f4fbfff70d98194231
+      internalID: 654835140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f4654742830741a6b1f69ef7f7859
+      internalID: 1856089986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d631260399ad448f1467888bdf479
+      internalID: -2026841487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 200
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d6210f83ab1eb41915cbba5d9aa04a
+      internalID: -997978312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e9ed2a1091114caa6cf6d80ef29fd
+      internalID: 1920445902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 201
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8f7ce6713f4640b1579e9fa03b1aa
+      internalID: -330095134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 201
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5934e700d72a0c040857db46147f8106
+      internalID: 93655949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 200
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de575d1925845614e9fb31d844e4b1c8
+      internalID: 1116494793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86f7bea072df4469fb817399e3fc5c
+      internalID: 364476986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 133
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc404f10219ee141b7effd7f09d3649
+      internalID: 243744424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 132
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad206fde7ffdcd489ca6a59669c0035
+      internalID: -971336900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bcf499aad4c04ca2f45ccb0b1a477
+      internalID: -1258543419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_56
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158cce5273105046a2bd8c2b65fcf63
+      internalID: 442380394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 134
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f10d3c607950045b2438650839c11a
+      internalID: 1040340556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 133
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4a19ec6761ed342897188d81485c53
+      internalID: -823543907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_59
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 133
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192d6113e679e04dbdcfc7519a02bf9
+      internalID: -1812489178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_60
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 133
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8179afda8f54cd840b67f5a099adf5e7
+      internalID: 1228722985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b183413d3d42054782a89bca074a3a7
+      internalID: 1037329066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63a4fd1d22eb3478e970c77d800d13
+      internalID: -1693284652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_63
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 77
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5741ee495f4934cbac76ac331675aa
+      internalID: 2022472397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_64
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1119bd2ac818a4fa9158471c96b931
+      internalID: 1144507751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 75
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c28310a72a51147a9043464dd768b6
+      internalID: 1916445828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee462720be36b468344b1a67b2e090
+      internalID: -42995933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 88
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a1a3fb0ca56443b8c7b7a8b2d0ce1
+      internalID: 214886729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208ae8f3ce4e0e41b7fdc041ddbfcbd
+      internalID: -1389892739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_69
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25a525f70e7aa46ab5cf2ccfcffc1d
+      internalID: 103712749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fc1f553b121c4188f9ee60fdc7f8f
+      internalID: 1765446210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bfa49abfd5ffd418c47e9532390917
+      internalID: 527979780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871f35c3a8f64340bda1de4070e690a
+      internalID: -1791649684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1fbb98af3439e4eb94ef25271c60fe
+      internalID: 823049916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 29
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d71353a2c2d74f93fdb357e0bb547
+      internalID: -1746471417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e905ff38bbd92443bb486bb96ffdd38
+      internalID: 171635347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 21
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d9477c2a4e0e449624b67782117cc
+      internalID: -1473521908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_77
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 21
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeca368a399852428cf34485f87e875
+      internalID: -1155322972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 21
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079c79ea83f0ce47b10fe317b1b04aa
+      internalID: 620359983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Mario_256_Font_Download-removebg-preview (1)_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dbfcb54b4940b4a874bfdc87f9000f
+      internalID: -651163624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Mario_256_Font_Download-removebg-preview (1)_0: -1924072132
+      Super_Mario_256_Font_Download-removebg-preview (1)_1: 103777678
+      Super_Mario_256_Font_Download-removebg-preview (1)_10: -1525781191
+      Super_Mario_256_Font_Download-removebg-preview (1)_11: 1695811953
+      Super_Mario_256_Font_Download-removebg-preview (1)_12: -312378291
+      Super_Mario_256_Font_Download-removebg-preview (1)_13: -1756523925
+      Super_Mario_256_Font_Download-removebg-preview (1)_14: -971587669
+      Super_Mario_256_Font_Download-removebg-preview (1)_15: -1054123733
+      Super_Mario_256_Font_Download-removebg-preview (1)_16: -365764067
+      Super_Mario_256_Font_Download-removebg-preview (1)_17: 2027331993
+      Super_Mario_256_Font_Download-removebg-preview (1)_18: 1390032764
+      Super_Mario_256_Font_Download-removebg-preview (1)_19: 811415046
+      Super_Mario_256_Font_Download-removebg-preview (1)_2: -436130311
+      Super_Mario_256_Font_Download-removebg-preview (1)_20: 837789286
+      Super_Mario_256_Font_Download-removebg-preview (1)_21: -409335281
+      Super_Mario_256_Font_Download-removebg-preview (1)_22: 1306596111
+      Super_Mario_256_Font_Download-removebg-preview (1)_23: -1946635412
+      Super_Mario_256_Font_Download-removebg-preview (1)_24: 785065834
+      Super_Mario_256_Font_Download-removebg-preview (1)_25: -525724524
+      Super_Mario_256_Font_Download-removebg-preview (1)_26: 944739121
+      Super_Mario_256_Font_Download-removebg-preview (1)_27: 1402844158
+      Super_Mario_256_Font_Download-removebg-preview (1)_28: 660413500
+      Super_Mario_256_Font_Download-removebg-preview (1)_29: 993867677
+      Super_Mario_256_Font_Download-removebg-preview (1)_3: 165220707
+      Super_Mario_256_Font_Download-removebg-preview (1)_30: -934602153
+      Super_Mario_256_Font_Download-removebg-preview (1)_31: 92440328
+      Super_Mario_256_Font_Download-removebg-preview (1)_32: -1173677070
+      Super_Mario_256_Font_Download-removebg-preview (1)_33: 1278328106
+      Super_Mario_256_Font_Download-removebg-preview (1)_34: -1123599428
+      Super_Mario_256_Font_Download-removebg-preview (1)_35: 1108476679
+      Super_Mario_256_Font_Download-removebg-preview (1)_36: 877565778
+      Super_Mario_256_Font_Download-removebg-preview (1)_37: -155080281
+      Super_Mario_256_Font_Download-removebg-preview (1)_38: 935630351
+      Super_Mario_256_Font_Download-removebg-preview (1)_39: 1008868239
+      Super_Mario_256_Font_Download-removebg-preview (1)_4: -325438508
+      Super_Mario_256_Font_Download-removebg-preview (1)_40: -630969283
+      Super_Mario_256_Font_Download-removebg-preview (1)_41: 1372442596
+      Super_Mario_256_Font_Download-removebg-preview (1)_42: 1836201076
+      Super_Mario_256_Font_Download-removebg-preview (1)_43: 1523181978
+      Super_Mario_256_Font_Download-removebg-preview (1)_44: 654835140
+      Super_Mario_256_Font_Download-removebg-preview (1)_45: 1856089986
+      Super_Mario_256_Font_Download-removebg-preview (1)_46: -2026841487
+      Super_Mario_256_Font_Download-removebg-preview (1)_47: -997978312
+      Super_Mario_256_Font_Download-removebg-preview (1)_48: 1920445902
+      Super_Mario_256_Font_Download-removebg-preview (1)_49: -330095134
+      Super_Mario_256_Font_Download-removebg-preview (1)_5: 412514417
+      Super_Mario_256_Font_Download-removebg-preview (1)_50: 93655949
+      Super_Mario_256_Font_Download-removebg-preview (1)_51: 1116494793
+      Super_Mario_256_Font_Download-removebg-preview (1)_52: 364476986
+      Super_Mario_256_Font_Download-removebg-preview (1)_53: 243744424
+      Super_Mario_256_Font_Download-removebg-preview (1)_54: -971336900
+      Super_Mario_256_Font_Download-removebg-preview (1)_55: -1258543419
+      Super_Mario_256_Font_Download-removebg-preview (1)_56: 442380394
+      Super_Mario_256_Font_Download-removebg-preview (1)_57: 1040340556
+      Super_Mario_256_Font_Download-removebg-preview (1)_58: -823543907
+      Super_Mario_256_Font_Download-removebg-preview (1)_59: -1812489178
+      Super_Mario_256_Font_Download-removebg-preview (1)_6: -227125423
+      Super_Mario_256_Font_Download-removebg-preview (1)_60: 1228722985
+      Super_Mario_256_Font_Download-removebg-preview (1)_61: 1037329066
+      Super_Mario_256_Font_Download-removebg-preview (1)_62: -1693284652
+      Super_Mario_256_Font_Download-removebg-preview (1)_63: 2022472397
+      Super_Mario_256_Font_Download-removebg-preview (1)_64: 1144507751
+      Super_Mario_256_Font_Download-removebg-preview (1)_65: 1916445828
+      Super_Mario_256_Font_Download-removebg-preview (1)_66: -42995933
+      Super_Mario_256_Font_Download-removebg-preview (1)_67: 214886729
+      Super_Mario_256_Font_Download-removebg-preview (1)_68: -1389892739
+      Super_Mario_256_Font_Download-removebg-preview (1)_69: 103712749
+      Super_Mario_256_Font_Download-removebg-preview (1)_7: 2613179
+      Super_Mario_256_Font_Download-removebg-preview (1)_70: 1765446210
+      Super_Mario_256_Font_Download-removebg-preview (1)_71: 527979780
+      Super_Mario_256_Font_Download-removebg-preview (1)_72: -1791649684
+      Super_Mario_256_Font_Download-removebg-preview (1)_73: 823049916
+      Super_Mario_256_Font_Download-removebg-preview (1)_74: -1746471417
+      Super_Mario_256_Font_Download-removebg-preview (1)_75: 171635347
+      Super_Mario_256_Font_Download-removebg-preview (1)_76: -1473521908
+      Super_Mario_256_Font_Download-removebg-preview (1)_77: -1155322972
+      Super_Mario_256_Font_Download-removebg-preview (1)_78: 620359983
+      Super_Mario_256_Font_Download-removebg-preview (1)_79: -651163624
+      Super_Mario_256_Font_Download-removebg-preview (1)_8: 1677482107
+      Super_Mario_256_Font_Download-removebg-preview (1)_9: 1300418585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

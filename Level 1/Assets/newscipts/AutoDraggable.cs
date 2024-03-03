@@ -13,13 +13,17 @@ public class AutoDraggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     [HideInInspector]
     public bool IsCorrect = false;
 
+    public AudioClip dropSound; // Sound to play when the object is dropped
+
     private Vector3 startPosition;
     private RectTransform rectTransform;
     private CanvasGroup canvasGroup;
+    private AudioSource audioSource; // Reference to AudioSource component
 
     private void Start()
     {
         startPosition = transform.position;
+        audioSource = gameObject.AddComponent<AudioSource>(); // Add AudioSource component to the same GameObject
     }
 
     private void Awake()
@@ -58,11 +62,22 @@ public class AutoDraggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
             {
                 ReturnToOriginalPosition();
             }
+
+            PlayDropSound(); // Play drop sound
         }
     }
 
     public void ReturnToOriginalPosition()
     {
         transform.position = startPosition;
+    }
+
+    private void PlayDropSound()
+    {
+        if (dropSound != null && audioSource != null)
+        {
+            audioSource.clip = dropSound;
+            audioSource.Play();
+        }
     }
 }

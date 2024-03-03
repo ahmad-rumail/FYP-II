@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 28a602ebde82737439ec82abfc3b44fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 422
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850390670fbfca54daf76076b040a8ba
+      internalID: -583942902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 422
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a33f3834e5b8478f5cf3a271178e9
+      internalID: -1978688652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 422
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca14faad7a4f2694985ae2200a18a630
+      internalID: -459122690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 422
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c0ca0c5201844a8b21edffc240f24
+      internalID: -857991209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 422
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c30d61ac1560e4cbcf9bd130a97dd2
+      internalID: 398493717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 341
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbecdc63ccf6f8d478dc23262dadecaf
+      internalID: 1693737398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 341
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd292199cdbd74db2e2bdada15f9da
+      internalID: 1037223664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 341
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d169b2e2f969dee4289e19f8d1d8dfa7
+      internalID: 49306785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 341
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc04417e319bfe49995c4d34dfae596
+      internalID: -706133117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 341
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9a94d8e9602ee4b9d52432e8b615d5
+      internalID: 636279765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 255
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540a6f8139c4054da5d8e92f8905bb3
+      internalID: 1571501924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 255
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf336195fe1995469a417ffe46448d3
+      internalID: -530204598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 255
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782594d6792cd1f43abffcf3a7037aac
+      internalID: -1466094327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656df6055c9a94459d5eabc6a125d47
+      internalID: 1471116483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 255
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d3608265a30840af7265eba0d045b
+      internalID: 906071236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 170
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b713068cd51c24388de4c4fb2fb340
+      internalID: -652742002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 170
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acbd9575b3f7234cb462c635dea6648
+      internalID: 1243514012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea1d569a313e74eb0f98364122770d
+      internalID: 1664288298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 170
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c86e4ec84bf634d8e6baae8a859184
+      internalID: -1400158118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 170
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1424ad1eb541a479c0b3a4d0c3ea5f
+      internalID: -441605497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 83
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5094dfc60ff7489aa7940ac1ed232
+      internalID: 601832691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 83
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7160ac1991fd12429445715594d7aaa
+      internalID: -1219126152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 83
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bf82b5395942469dbb0797dd97a08
+      internalID: -2030797287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 83
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed0c619f995414392699bb77c47ada
+      internalID: -1327596526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c1c98899a5e842b3158539b4f4c79
+      internalID: 751281744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a969fe645f6a54192444539fc15179
+      internalID: -1769233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_0: -583942902
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_1: -1978688652
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_10: 1571501924
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_11: -530204598
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_12: -1466094327
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_13: 1471116483
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_14: 906071236
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_15: -652742002
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_16: 1243514012
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_17: 1664288298
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_18: -1400158118
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_19: -441605497
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_2: -459122690
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_20: 601832691
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_21: -1219126152
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_22: -2030797287
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_23: -1327596526
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_24: 751281744
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_25: -1769233479
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_3: -857991209
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_4: 398493717
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_5: 1693737398
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_6: 1037223664
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_7: 49306785
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_8: -706133117
+      Soft_Pastel_Vector_Design_Images__Soft_Pastel_Uppercase_Alphabet_Stickers__Alphabet__Sticker__Pastel_PNG_Image_For_Free_Download-removebg-preview_9: 636279765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

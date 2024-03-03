@@ -394,12 +394,15 @@
 "Assets/GameAssets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 "Assets/newscipts/AutoDraggable.cs"
 "Assets/newscipts/AutoDropZone.cs"
+"Assets/newscipts/DragDrop.cs"
 "Assets/newscipts/LetterBox.cs"
+"Assets/newscipts/Placeholder.cs"
 "Assets/newscipts/SequenceBox.cs"
 "Assets/Scripts 1.0/Draggable.cs"
 "Assets/Scripts 1.0/DropZone.cs"
 "Assets/Scripts 1.0/GameManager.cs"
 "Assets/Scripts 1.0/LevelManager.cs"
+"Assets/Unity.VisualScripting.Generated/VisualScripting.Core/AotStubs.cs"
 -langversion:9.0
 
 /deterministic

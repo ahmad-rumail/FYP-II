@@ -1,0 +1,2208 @@
+fileFormatVersion: 2
+guid: 7ae05b4af1afdcf41bd4949c3b3a3e9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 542
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e722beb9293c9f44825f8dcba83e2a5
+      internalID: -657942314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743ef0327ce4564d99ed471c08ada4b
+      internalID: -1394239738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 542
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7d1bbccafeea448046be2fe80a824
+      internalID: -1440847768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 542
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173165aa4a0609429ef2ff454b14aee
+      internalID: -1284316746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 542
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623daeeec446454e844495c17e8d8c6
+      internalID: -359053553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 542
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01133cf1605cc249b7b4e540915a458
+      internalID: 1033065075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 542
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a6e75bc726214f87e9da18e0efb05
+      internalID: 475783748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 542
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d24d0f068a3f2049a13d0c0ac29c0c2
+      internalID: 1950972379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092221c39c038fc45bb44a5a456cdaa3
+      internalID: -1853001884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 486
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42827ee22ee211841a5e242b2ab1e82c
+      internalID: 1068112561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 486
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad63a66c6c46034db55f4da6f5a895b
+      internalID: -770682099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 486
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011dac0b11ec2ef4c950fee549fa12d8
+      internalID: -1337997175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 487
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c470dc1ad1de43b189d44696f7fd2
+      internalID: -2008505642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 486
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb97937bf821564f86732ee91f82a6f
+      internalID: -203322172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 486
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa3f54952c2b942a528613f2dc2857
+      internalID: -1983734885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 487
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200df451f84093499363d2fb798efdc
+      internalID: 982686629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 486
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35638095f6f972b4b85a323b63995890
+      internalID: 608297313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 486
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512d43af64b5684290631460ff8013b
+      internalID: 1993933228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 430
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162390855184af4c81a20a20b5cb03c
+      internalID: 720128847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 430
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0358f980fb034c91ca8fe4d1272b4
+      internalID: -1062299664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 430
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee693c23a8e91d345adf96a3187219e4
+      internalID: -1121538124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 430
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac1bb55f115f74b84d62786f9d48a1
+      internalID: 168869255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 430
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4f5880559f8147805e3d4d553ee41
+      internalID: 550938298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 430
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17875f41a933e4c4189c587fe02ec3e7
+      internalID: 216646204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 430
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562087aa62434ab45b34990c8c580001
+      internalID: 39058654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 430
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf65407baea8b428b4af4f96329246
+      internalID: -2147155853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 374
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf55212c13b33749828f0687d432a1c
+      internalID: 32369475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 374
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a93f1a784f3be43b2406a259676873
+      internalID: 1875863046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 374
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320e5d0dadb1c849adc21838dab3cef
+      internalID: -1216034045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 374
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f47a16b8a7e349b40216a94e1f18e
+      internalID: -1334819512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 374
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6ff2f9b13d9a43832038cb9d7bac2
+      internalID: 1473802858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 374
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72a2d7c5800f54d90857072945b9e0
+      internalID: -542742264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 366
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1de5e84c7ef04fa2bd23617db0653
+      internalID: -624111823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 374
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3990be12958a94b90de380f7588deb
+      internalID: -1058827751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 374
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5436737825df649af55461f3772f40
+      internalID: -1974753322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 310
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c1f34a065c2f42abd9a9f612a698b
+      internalID: -262167340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 318
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f2d0e32ec20246a7d9922fcff05ab
+      internalID: -675488432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 318
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f159081c7ac8dd4d994b2bb82839a20
+      internalID: 2099780898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd42f9f535c226449309b3a680db5a6
+      internalID: 1342654898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 318
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c3001f12409d43aa75214ed0aebb8
+      internalID: -1942467314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 318
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a963f30e7a6542b455661225c489f
+      internalID: -1340043003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 310
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416055da6c29d1e4286fbc6f7e32f185
+      internalID: 75529887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 309
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b70bbee080f9447bce39388499d403
+      internalID: -537054833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 318
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab77e80e0af084c9a9791d7cffa05b
+      internalID: 178771959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af0f4629aea5d143a51229d0fa98599
+      internalID: 2123048641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638b86aed69ff14fb5c8ef33906709a
+      internalID: -1115146372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbd0ae29a237a44a1a0638261de08a
+      internalID: -807231740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 262
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e985df9eb83143a27d3ffbaf65bff
+      internalID: 498218334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 262
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e8921c9e66cc24a9554ff34fa1fcf2
+      internalID: 948368038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f2da96cae70c4aa47d588dd6aa1d0
+      internalID: 7736639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 253
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46615a1ff563583419c08f9f657cc46d
+      internalID: -739504112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 262
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b174fcdac4d548be3343d15995126
+      internalID: 1489360355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 206
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f5a799922da3478de281deb902cc0
+      internalID: 1891348123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d30a1ae1846ff4c8bbd7224d0060c0
+      internalID: -1702615991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeccea7c86c93fb44a163c9e48872578
+      internalID: 1923321578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95299c56a2cd1408f870d4d96f8deb
+      internalID: -939165729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 206
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84006bf129aa24fbd8fbb0bd457a98
+      internalID: -1297432835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 206
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2c8a993d306947a361843e8a541de
+      internalID: -220416741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cddfa3c8e01d1041a455f97f4675999
+      internalID: 296473312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 206
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42948184543054cb0b200ea569351a
+      internalID: -475603114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 208
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e57d2785044d4bab168ff5164d94c
+      internalID: -550833906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 207
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0d934d3d925e44b65a88f2adf30d1
+      internalID: 984865053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe7feaf22d5ce4d92b7edb6ffe659c
+      internalID: -1217870628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18d455b6e74834baec233d2c6b572d
+      internalID: 825301196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9088af7b5c77e7b4aaa97675020e99f8
+      internalID: 1084839986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 149
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896078f02060724988bd579500a40db
+      internalID: -1678643694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35708cee2afc421448336dd3881cc833
+      internalID: 787778073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 151
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b858bfe3cf024792ca651c9286ece
+      internalID: -954361349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 149
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ecfbd403b06d41a34e0ade3ae3822
+      internalID: 1578276364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 149
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2031fc4531d94a8642a14c43a2642
+      internalID: 682334208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 90
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436769637a46c154b90611fe8c264fbb
+      internalID: 1876134340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 90
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ebe37a3755da4fab2637da0b984ae
+      internalID: -191616391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 84
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff70fdc0ef268c48ae230a32a291f41
+      internalID: 1043968895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a561368bc5cff047a81e695a5f66965
+      internalID: -943564430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b72e8d1f30d044b3843811a4cb5d1
+      internalID: 2077101984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 84
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd845f1d8fbe64f9eb73c9c79c1e76
+      internalID: 1323909737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 105
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e743716d0db79641bc58c6e3af07977
+      internalID: -845152517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4572e602d7d4bc49a31a3165142c263
+      internalID: 1787889329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 107
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1069114eda2d3a478c25c7429d4f647
+      internalID: 799321659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 107
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d5ccfb8386e24fac8cb72e795af81
+      internalID: -907787177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 107
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ced6b40dc5bc47886680c0c9f6b93
+      internalID: 1356604285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 92
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ff3055a56a0940b93a1caa1a8865e
+      internalID: -649161790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3ba3e04c27a6478912817a01e011d
+      internalID: 1703642443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 93
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a063346c7dca4da10c532684c4b64
+      internalID: -1812606514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 86
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a46f49e3b34d546b90aa5bbe4f044d
+      internalID: -2050321118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fae98bc213875438b339c440f4811f
+      internalID: -1930358994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3a87ea8af42741b8f19b7e6f09124
+      internalID: 145668410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54cdac03fec3b449ae0ccad98362b3
+      internalID: 105757368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7ecb4c187721499ad79341072d160
+      internalID: 1577631213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 34
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e76d852bdc22a458dc41602740a5db
+      internalID: 1721167711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 37
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b8ec3afff59a4e8d906e1f5418321
+      internalID: 1585017399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 37
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017c0a2ed90a2c47aa01c8854e64d3c
+      internalID: 185546564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 37
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe1400da9553348a51d3a28c22b309
+      internalID: -1401688802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d7cf662ceb424fa158c679878f2a6
+      internalID: -1112143261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_0: -657942314
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_1: -1394239738
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_10: -770682099
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_11: -1337997175
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_12: -2008505642
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_13: -203322172
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_14: -1983734885
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_15: 982686629
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_16: 608297313
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_17: 1993933228
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_18: 720128847
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_19: -1062299664
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_2: -1440847768
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_20: -1121538124
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_21: 168869255
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_22: 550938298
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_23: 216646204
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_24: 39058654
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_25: -2147155853
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_26: 32369475
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_27: 1875863046
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_28: -1216034045
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_29: -1334819512
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_3: -1284316746
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_30: 1473802858
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_31: -542742264
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_32: -624111823
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_33: -1058827751
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_34: -1974753322
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_35: -262167340
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_36: -675488432
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_37: 2099780898
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_38: 1342654898
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_39: -1942467314
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_4: -359053553
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_40: -1340043003
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_41: 75529887
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_42: -537054833
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_43: 178771959
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_44: 2123048641
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_45: -1115146372
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_46: -807231740
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_47: 498218334
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_48: 948368038
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_49: 7736639
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_5: 1033065075
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_50: -739504112
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_51: 1489360355
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_52: 1891348123
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_53: -1702615991
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_54: 1923321578
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_55: -939165729
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_56: -1297432835
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_57: -220416741
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_58: 296473312
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_59: -475603114
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_6: 475783748
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_60: -550833906
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_61: 984865053
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_62: -1217870628
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_63: 825301196
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_64: 1084839986
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_65: -1678643694
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_66: 787778073
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_67: -954361349
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_68: 1578276364
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_69: 682334208
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_7: 1950972379
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_70: 1876134340
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_71: -191616391
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_72: 1043968895
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_73: -943564430
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_74: 2077101984
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_75: 1323909737
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_76: -845152517
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_77: 1787889329
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_78: 799321659
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_79: -907787177
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_8: -1853001884
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_80: 1356604285
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_81: -649161790
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_82: 1703642443
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_83: -1812606514
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_84: -2050321118
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_85: -1930358994
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_86: 145668410
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_87: 105757368
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_88: 1577631213
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_89: 1721167711
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_9: 1068112561
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_90: 1585017399
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_91: 185546564
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_92: -1401688802
+      Download_free_vector_of_Vector_alphabet_and_symbol_set_font_by_Wit_about_number__alphabet__quotation__a_to_z_alphabet_set__and_quotation_marks_2641252-removebg-preview_93: -1112143261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

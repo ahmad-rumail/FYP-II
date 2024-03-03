@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: 757c68ecbf4dfc342b00427bb689c34e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 271
+        width: 311
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e435030fa63a4182661ce0efa3ea1
+      internalID: 865941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 217
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64957dddc1838d74a91542c92108ade8
+      internalID: 2103149090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ebbfde4c3d2b041802b225af5502cb
+      internalID: -686847517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 218
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b65056c2004a43b8dc6edd45bd974
+      internalID: -1193612598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 218
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348b3377185a9640a6a521a9c915ff4
+      internalID: 2107102355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 218
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993a33113866e749a48c4faa9a75445
+      internalID: 1317274788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 218
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13164da3a4f7444d803d00feaec9817
+      internalID: 207286680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 218
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc58aea9212ff4ebb431479160f508
+      internalID: -2023991188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 218
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058bc4a088df371478671a4d359ec717
+      internalID: -168282400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 218
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcf577d863a544bb5042ffa2c46b7d
+      internalID: 643105210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 152
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf27783869e74546a03193f1cc9ad61
+      internalID: -61477138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cec6e5ef7645048bcbb8997ac3c8df
+      internalID: 481167735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 151
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e40a9fb1fce43499c623d31f4dca0e
+      internalID: -685128687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbadfe0583dac64b846df57ded37be5
+      internalID: -1923518242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 151
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f50ba602b083949909c02fcab65166
+      internalID: -470624567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 151
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497d4b646945ca4dbc93f3ff488267b
+      internalID: 724447929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 152
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655c079a232b55419c7710cf1a74c21
+      internalID: 275135528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 143
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a4eb590c2a5d459abdd0a33294579
+      internalID: 880481636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 148
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c1ba69c0a37fe4d8a4a9ec929fe9d5
+      internalID: -1852005389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 85
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8438ec842d20bd4a9f6e2d15550f939
+      internalID: 528298050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ba9865987b0747a4ad8cc462de086
+      internalID: -1900915352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 84
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f202a4ba7535af42a59e07d4d8dda9d
+      internalID: -1556937657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 84
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f4086c197af148a932840ad8e5801
+      internalID: -2092223778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618fd52ee81a654684f49f26c44bcf4
+      internalID: -2116849138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99fea96c9faea4e8735e47ad505bf1
+      internalID: -1054774835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 85
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe051e2bcf824409768ea27a1be72d
+      internalID: 820147677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 86
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c3ee93c0b27f45ad53aa5e804e0a5
+      internalID: 1386285146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 86
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c284e327271a74fa738cdbfea0e9db
+      internalID: -1747804743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798f190a4b2307458a93541bfe614c4
+      internalID: 1171694900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 19
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc153c414644a4092634656335e5a0
+      internalID: 1393572293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c869f01633dc4d9297a06bc596ca2
+      internalID: -1111043421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42635a6b75c635849bbf7b0c95063e37
+      internalID: -2045770657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650a7e07ad74c549ad370e68aa2ea3b
+      internalID: -1478815240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e17eb1ddbd62a44af77afb1bd7636c
+      internalID: 746654990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 19
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49aff89f1702d47ae290a1298650c1
+      internalID: -372694548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e27480f3e80848b5cc48c950080f7
+      internalID: 2121548839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 21
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb843610d9370e46a987cf54b9870f4
+      internalID: 205211736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 19
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d239eb05f817d046975ca529b49a54f
+      internalID: -1539820302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_0: 865941195
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_1: 2103149090
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_10: -61477138
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_11: 481167735
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_12: -685128687
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_13: -1923518242
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_14: -470624567
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_15: 724447929
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_16: 275135528
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_17: 880481636
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_18: -1852005389
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_19: 528298050
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_2: -686847517
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_20: -1900915352
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_21: -1556937657
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_22: -2092223778
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_23: -2116849138
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_24: -1054774835
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_25: 820147677
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_26: 1386285146
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_27: -1747804743
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_28: 1171694900
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_29: 1393572293
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_3: -1193612598
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_30: -1111043421
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_31: -2045770657
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_32: -1478815240
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_33: 746654990
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_34: -372694548
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_35: 2121548839
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_36: 205211736
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_37: -1539820302
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_4: 2107102355
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_5: 1317274788
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_6: 207286680
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_7: -2023991188
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_8: -168282400
+      Download_Pop_Art_Style_Typography_Set_for_free-removebg-preview (1)_9: 643105210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: c2b9583199139b045a4fc1452318faf5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 414
+        width: 191
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b9dcbd61fb2234fa52b7e2f627da3d
+      internalID: -1899800907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 346
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f37805b013477f47a471c812d272923
+      internalID: -493311728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 346
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96cec2c68ecb534983488b2d7eb840a
+      internalID: 1670231944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 346
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292daea1e3f5f774b87533aa72e3da1a
+      internalID: 2085775652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 346
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e788040b67f8f04091a7920e2e0afc3
+      internalID: 1169272005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 346
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36825d5aa358019479db44b20caf1650
+      internalID: 2018290422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 346
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc870c99ccd630408b2e16c209636de
+      internalID: 889294614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 346
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b778a78603e84f8f843ae682641c0
+      internalID: -1238950199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 346
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3da77261383a4cbdcf9f2b516ac47
+      internalID: -1806550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 346
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5984fd718d57d47922b6a4bbe95631
+      internalID: 1900659087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 279
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbf44d7d3371a45ac9dff62d1942a9
+      internalID: -2128567266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 278
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1825dc3b7a2694aa3be412a8df3e61
+      internalID: 1371500524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 279
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de55b425881b034c9bab7008e4e3035
+      internalID: -771420695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 279
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42a6e170d63060439b62348b8620e7f
+      internalID: 1422436235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 278
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf234bf221b7642b33bbd753c5140f
+      internalID: 282110790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 279
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26584c8f038d5ac47a7af94a1fe1a205
+      internalID: 303527888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 278
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0bd465895880744ac873da1f7de1de
+      internalID: -376337235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 278
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15b0b67b0642c4da922a7d2cc60495
+      internalID: -1461003135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 210
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da3c3c377ecf68439a9eefa16187957
+      internalID: 1562799023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 214
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d3c0a811944d9478d307e5a5e7b98c
+      internalID: 1010280321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10451bd120b6b40a8efa79875cc0bf
+      internalID: 1646006182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 213
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f872cf1a485fa446ad436b4774c2c1a
+      internalID: -727178387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 214
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e050d63d4f0154382b978a2462fb3b
+      internalID: 1976405786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 214
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc026a2a6223e64faa481fe544056a2
+      internalID: -1711999103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 214
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ab77698bf05345bfff59262afb4dd
+      internalID: -1951257644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 214
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f2ee5bd046bb438ce27f529f76845
+      internalID: -1618801296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 214
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5503900e8897104dbcd391d400518fc
+      internalID: 1924440543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98e851c76a1ba42b2f069ef387014a
+      internalID: -1272438549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e602bf257725409a383dbc39ff368
+      internalID: 966519341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 147
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb531081012ce484a9837aaea19b643c
+      internalID: 269629668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 147
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafaaa5d314b914e92f0a8048a2a4ed
+      internalID: -1063224305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 147
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d315d05e4806c046b4cdbaec2702ba2
+      internalID: 641936333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 147
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c96f531fed48409814dfe3ddd36ba
+      internalID: 793106864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 147
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d4b847eddb6734396e9e693c5ff538
+      internalID: 1659540874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 147
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf95e970646634d9d7ee628bc7a40c
+      internalID: 620140839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 147
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a4ee377f07a24892e40d76e9f7752
+      internalID: -685932271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 147
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141aca59eafc8cb4b82b7d9ca96bb4dc
+      internalID: 473279750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc29b1c0490cab4d99a766bcd438703
+      internalID: -293732688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 104
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf1b5eefe387c489bec6242d5dd004
+      internalID: -1330204169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 89
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8d089087d46f4fbe5be452262b072
+      internalID: 1961768591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b449c90e138949a23886da5245c3e
+      internalID: 341003416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 89
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdde0ce3360a1c43a49814030acff7f
+      internalID: 1283703322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_0: -1899800907
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_1: -493311728
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_10: -2128567266
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_11: 1371500524
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_12: -771420695
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_13: 1422436235
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_14: 282110790
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_15: 303527888
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_16: -376337235
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_17: -1461003135
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_18: 1562799023
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_19: 1010280321
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_2: 1670231944
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_20: 1646006182
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_21: -727178387
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_22: 1976405786
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_23: -1711999103
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_24: -1951257644
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_25: -1618801296
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_26: 1924440543
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_27: -1272438549
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_28: 966519341
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_29: 269629668
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_3: 2085775652
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_30: -1063224305
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_31: 641936333
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_32: 793106864
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_33: 1659540874
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_34: 620140839
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_35: -685932271
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_36: 473279750
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_37: -293732688
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_38: -1330204169
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_39: 1961768591
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_4: 1169272005
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_40: 341003416
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_41: 1283703322
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_5: 2018290422
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_6: 889294614
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_7: -1238950199
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_8: -1806550
+      Naruto_Font_SVG__Naruto_Alphabet_SVG__Naruto_Letters_SVG-removebg-preview_9: 1900659087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

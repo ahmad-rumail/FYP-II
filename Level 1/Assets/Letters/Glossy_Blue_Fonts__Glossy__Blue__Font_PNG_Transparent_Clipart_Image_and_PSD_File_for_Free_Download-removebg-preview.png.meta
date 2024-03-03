@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 496c8653fb294dc4ca33a27264ead9e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 295
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aeff587e74e3849843417df6b6b21b
+      internalID: -1248531455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 295
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106262c9cac9fb419d1810c543e9713
+      internalID: 833462698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 295
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d0c31baf640c43b31bff629640de9
+      internalID: 44115349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 295
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e52add4a7bd41f46bc73e71879c05d0
+      internalID: -1420425637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 295
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a065350b8cf8be4da937818a8db2375
+      internalID: 1583699639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 295
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b236e8043ffd8f478f08aad52270737
+      internalID: 1229711659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a86e67160bb244b80c22fe06432b2
+      internalID: -1422953627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 250
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc11349dda7ec43a3e53472549ac73
+      internalID: -1276128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 250
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eaded7761654746af25c58033c11f2
+      internalID: 2105459355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 250
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368cbd88c95c188428d9ddd146d46b9a
+      internalID: 65215837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 250
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a6be6decb3db468d76ec9cbb58da2
+      internalID: -1596648190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 250
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2869a55486951f43843f44679ae87b6
+      internalID: -470249726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 250
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb2bdbf9e65f74d90f05b60f68ea0d
+      internalID: -1775837666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 206
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b0a1488d64f24693be504b371b069
+      internalID: -304354533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 206
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca71e5f0fd6a3fd44bda3bd94a9f5f4c
+      internalID: 1069584819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 206
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8f63c4d7784642b6ede5f653b782c
+      internalID: -231650973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec6fd13cc76d234fbe8bce9a5baec21
+      internalID: 1835420247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9fa6ed901537b47b8a507038ccf719
+      internalID: -1301685328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 206
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28fd118adc2e534e889dce5eefbab3b
+      internalID: -569281970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 206
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342244fba35b5464ea1aba5dbafc94cb
+      internalID: -21353216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ac3191a0b57c4fb25d6c95a4f52e1
+      internalID: -1269485766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9308e2e8b239d439df216e07ac425b
+      internalID: -799443831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 160
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b126155729277846b19b2cf7f4529d2
+      internalID: -313302012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 160
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056874b493ade64aa2f65eea6833ded
+      internalID: 1588243197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 160
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b18c84127ddcc478844877d69533c8
+      internalID: -1060533316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 160
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c8ad8fd9a16c4f8b18e478183b6ba
+      internalID: 2060377362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff415cc95d7713b49bc8ea03d3862ae1
+      internalID: 1706473046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 117
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a306458103f954a9f5205e594395e0
+      internalID: 161148800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de598503a748ea1458735ab9de4f7d9d
+      internalID: 843000519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 117
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18a4de1c5b86d43998f7e6b2807f56
+      internalID: -82278247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 116
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18292132b557e2e47ac121ec140b3e2f
+      internalID: 688111204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc69821235cd645af3832bdc94acc6
+      internalID: -491820966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b97b22655873e644a57ccc1c2a89271
+      internalID: -482067579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 71
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50dc4fe20055343a2bcea30028bd97
+      internalID: -434102500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 71
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6266022ca8fac4cbe734d3baefe38b
+      internalID: -1527944327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 71
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295828d3f600414f9cde2f437a98f18
+      internalID: -1025833076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 25
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b03f3b574d084da96f202440690c4
+      internalID: -735213536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455e78c2d875024491151c8b2aef093
+      internalID: 2088164967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 25
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52aae06b5bf944ea4a7dc3550f16e3
+      internalID: -907871602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 22
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3dfaf4634b1a24f9820758bc5b842b
+      internalID: 1530442303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 25
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be2e36485200740b3f89a88cb52ddd
+      internalID: 1823943446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12945f3332b4ee845950b1aa3f2606a8
+      internalID: -1847633484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_0: -1248531455
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_1: 833462698
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_10: -1596648190
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_11: -470249726
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_12: -1775837666
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_13: -304354533
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_14: 1069584819
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_15: -231650973
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_16: 1835420247
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_17: -1301685328
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_18: -569281970
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_19: -21353216
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_2: 44115349
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_20: -1269485766
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_21: -799443831
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_22: -313302012
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_23: 1588243197
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_24: -1060533316
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_25: 2060377362
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_26: 1706473046
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_27: 161148800
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_28: 843000519
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_29: -82278247
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_3: -1420425637
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_30: 688111204
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_31: -491820966
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_32: -482067579
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_33: -434102500
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_34: -1527944327
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_35: -1025833076
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_36: -735213536
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_37: 2088164967
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_38: -907871602
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_39: 1530442303
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_4: 1583699639
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_40: 1823943446
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_41: -1847633484
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_5: 1229711659
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_6: -1422953627
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_7: -1276128587
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_8: 2105459355
+      Glossy_Blue_Fonts__Glossy__Blue__Font_PNG_Transparent_Clipart_Image_and_PSD_File_for_Free_Download-removebg-preview_9: 65215837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
