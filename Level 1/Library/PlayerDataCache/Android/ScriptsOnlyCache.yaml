@@ -2,9 +2,19 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - AutoDraggable
+    - AutoDraggable1
+    - AutoDraggable2
+    - AutoDraggable3
+    - AutoDraggable4
+    - AutoDraggable5
+    - AutoDraggable6
+    - AutoDraggable7
+    - AutoDraggable8
     - AutoDropZone
     - LetterBox
     - LevelManager
+    - MainBox
+    - NextSceneLoader
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputSettings
     - UnityEngine.InputSystem.InputSystemObject
@@ -39,6 +49,8 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Slider
   serializedClasses:
+    Assembly-CSharp:
+    - Box
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
     - TMPro.FontAssetCreationSettings
@@ -55,7 +67,9 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Style
     - TMPro.VertexGradient
     UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
     - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
     - UnityEngine.RectOffset
     UnityEngine.TextCoreFontEngineModule:
     - UnityEngine.TextCore.FaceInfo
@@ -70,9 +84,18 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Navigation
     - UnityEngine.UI.Slider/SliderEvent
     - UnityEngine.UI.SpriteState
-  methodsToPreserve: []
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: NextSceneLoader
+    methodName: LoadNextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: NextSceneLoader
+    methodName: LoadNextScene2
+  - assembly: Assembly-CSharp
+    fullTypeName: NextSceneLoader
+    methodName: LoadNextScene3
   sceneClasses:
-    Assets/Scenes/Level1.1 2.unity:
+    Assets/Scenes/Level 1/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -96,43 +119,213 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 16644}
     - Class: 114
-      Script: {instanceID: 16820}
+      Script: {instanceID: 16822}
     - Class: 114
-      Script: {instanceID: 17328}
+      Script: {instanceID: 17330}
     - Class: 114
-      Script: {instanceID: 17804}
+      Script: {instanceID: 17806}
     - Class: 114
-      Script: {instanceID: 18018}
+      Script: {instanceID: 18020}
     - Class: 114
-      Script: {instanceID: 18298}
+      Script: {instanceID: 18300}
     - Class: 114
-      Script: {instanceID: 18336}
+      Script: {instanceID: 18338}
     - Class: 114
-      Script: {instanceID: 19344}
+      Script: {instanceID: 19346}
     - Class: 114
-      Script: {instanceID: 19464}
+      Script: {instanceID: 19468}
     - Class: 114
-      Script: {instanceID: 19742}
+      Script: {instanceID: 19746}
     - Class: 114
-      Script: {instanceID: 20162}
+      Script: {instanceID: 20166}
     - Class: 114
-      Script: {instanceID: 20436}
+      Script: {instanceID: 20440}
     - Class: 114
-      Script: {instanceID: 20520}
+      Script: {instanceID: 20524}
     - Class: 114
-      Script: {instanceID: 21118}
+      Script: {instanceID: 21122}
     - Class: 114
-      Script: {instanceID: 21288}
+      Script: {instanceID: 21294}
     - Class: 114
-      Script: {instanceID: 21644}
+      Script: {instanceID: 21650}
     - Class: 114
-      Script: {instanceID: 22266}
+      Script: {instanceID: 22272}
     - Class: 114
-      Script: {instanceID: 22494}
+      Script: {instanceID: 22500}
     - Class: 114
-      Script: {instanceID: 22778}
+      Script: {instanceID: 22784}
     - Class: 114
-      Script: {instanceID: 23218}
+      Script: {instanceID: 23224}
+    - Class: 114
+      Script: {instanceID: 33082}
+    - Class: 114
+      Script: {instanceID: 35150}
+    - Class: 114
+      Script: {instanceID: 35170}
+    - Class: 114
+      Script: {instanceID: 37986}
+    - Class: 114
+      Script: {instanceID: 52918}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 1/Level 2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16644}
+    - Class: 114
+      Script: {instanceID: 16822}
+    - Class: 114
+      Script: {instanceID: 17806}
+    - Class: 114
+      Script: {instanceID: 18020}
+    - Class: 114
+      Script: {instanceID: 18300}
+    - Class: 114
+      Script: {instanceID: 18338}
+    - Class: 114
+      Script: {instanceID: 20166}
+    - Class: 114
+      Script: {instanceID: 20440}
+    - Class: 114
+      Script: {instanceID: 20524}
+    - Class: 114
+      Script: {instanceID: 21122}
+    - Class: 114
+      Script: {instanceID: 21294}
+    - Class: 114
+      Script: {instanceID: 21650}
+    - Class: 114
+      Script: {instanceID: 22272}
+    - Class: 114
+      Script: {instanceID: 22500}
+    - Class: 114
+      Script: {instanceID: 22784}
+    - Class: 114
+      Script: {instanceID: 23224}
+    - Class: 114
+      Script: {instanceID: 37986}
+    - Class: 114
+      Script: {instanceID: 43906}
+    - Class: 114
+      Script: {instanceID: 44062}
+    - Class: 114
+      Script: {instanceID: 44082}
+    - Class: 114
+      Script: {instanceID: 52918}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 1/Level 3.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16644}
+    - Class: 114
+      Script: {instanceID: 16822}
+    - Class: 114
+      Script: {instanceID: 17806}
+    - Class: 114
+      Script: {instanceID: 18020}
+    - Class: 114
+      Script: {instanceID: 18300}
+    - Class: 114
+      Script: {instanceID: 18338}
+    - Class: 114
+      Script: {instanceID: 20166}
+    - Class: 114
+      Script: {instanceID: 20440}
+    - Class: 114
+      Script: {instanceID: 20524}
+    - Class: 114
+      Script: {instanceID: 21122}
+    - Class: 114
+      Script: {instanceID: 21294}
+    - Class: 114
+      Script: {instanceID: 21650}
+    - Class: 114
+      Script: {instanceID: 22272}
+    - Class: 114
+      Script: {instanceID: 22500}
+    - Class: 114
+      Script: {instanceID: 22784}
+    - Class: 114
+      Script: {instanceID: 23224}
+    - Class: 114
+      Script: {instanceID: 37986}
+    - Class: 114
+      Script: {instanceID: 44062}
+    - Class: 114
+      Script: {instanceID: 44082}
+    - Class: 114
+      Script: {instanceID: 49302}
+    - Class: 114
+      Script: {instanceID: 49306}
+    - Class: 114
+      Script: {instanceID: 52918}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -614,12 +807,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem
     namespaceName: UnityEngine.InputSystem.Editor
     className: InputDebuggerWindow
-  - hash:
-      serializedVersion: 2
-      Hash: 56c76e1d47a7a348722b30686ff26f7a
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: SequenceBox
   - hash:
       serializedVersion: 2
       Hash: 32bfadf4ab14c1e4298d945ac7dbee8f
@@ -1406,7 +1593,69 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 66fa401cee6e184e915671eea6150529
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable1
+  - hash:
+      serializedVersion: 2
+      Hash: fc45ffb4353c03efc08050f33d3ebdb6
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable2
+  - hash:
+      serializedVersion: 2
+      Hash: e51a7feb4fcb18f7fb2fd5b1add399bf
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable3
+  - hash:
+      serializedVersion: 2
+      Hash: 347febf08ec75454e6bbe8f423974bf5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MainBox
+  - hash:
+      serializedVersion: 2
+      Hash: 04be824300a51d6351d3c530120401da
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable4
+  - hash:
+      serializedVersion: 2
+      Hash: 885d14e0cb78b5e44e00bd8b10e96d04
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable5
+  - hash:
+      serializedVersion: 2
+      Hash: ded5ee396c09f2c523790bdccc65a1ec
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable6
+  - hash:
+      serializedVersion: 2
+      Hash: f99d7f3ec454cc675a4b07ac5658bfab
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable7
+  - hash:
+      serializedVersion: 2
+      Hash: cd438d921ed5e1ff980c634249ac7614
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AutoDraggable8
+  - hash:
+      serializedVersion: 2
+      Hash: 9a8db2e756f649c1ca56fcfef1afcb2b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: NextSceneLoader
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Level1.1 2.unity
-  playerPath: D:/FYP-II/Level 1/Testing 1.0.apk
+  - Assets/Scenes/Level 1/Level 1.unity
+  - Assets/Scenes/Level 1/Level 2.unity
+  - Assets/Scenes/Level 1/Level 3.unity
+  playerPath: D:/FYP-II/Level 1/Testing 1.1.apk
