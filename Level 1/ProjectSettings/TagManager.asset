@@ -24,6 +24,7 @@ TagManager:
   - Y
   - Z
   - +
+  - ','
   layers:
   - Default
   - TransparentFX

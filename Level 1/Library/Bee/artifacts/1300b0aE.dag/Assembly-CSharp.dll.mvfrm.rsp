@@ -12,14 +12,6 @@ Library\Bee\artifacts\mvdfrm\Unity.TextMeshPro.ref.dll_02929A3ECA791895.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Timeline.Editor.ref.dll_17F688653313AA4C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Timeline.ref.dll_16F8EA6B67022FB5.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VSCode.Editor.ref.dll_AE868214B5ED3D13.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Core.Editor.ref.dll_514B12BC0D1D8DB7.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Core.ref.dll_BF8650D11F8E519A.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Flow.Editor.ref.dll_CE7BFB6B1BFC18F8.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Flow.ref.dll_06973127A197C649.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.SettingsProvider.Editor.ref.dll_EE1755C0672F8EE2.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Shared.Editor.ref.dll_6CA31C4FA5286AB1.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.Editor.ref.dll_DC1879B0E64A8F15.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.ref.dll_900B338E31D9525C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualStudio.Editor.ref.dll_0FE027DDD6F41767.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_0174E068A5FA251B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_BDDAB6C3AC1C4D86.mvfrm
@@ -106,4 +98,3 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_C8536DB947595782.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.Gradle.dll_6A06F7FD69031E14.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.GradleProject.dll_18700B68261B6EE1.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.Types.dll_893FB4084E1D8568.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_DACAA631817C5F43.mvfrm
