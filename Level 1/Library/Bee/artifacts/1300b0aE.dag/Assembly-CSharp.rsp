@@ -349,6 +349,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Assets/ToonTastic - Potion Pack/Scripts/Liquid In Bottle/Wobble.cs"
 "Assets/GameAssets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/GameAssets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/GameAssets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
@@ -399,6 +400,7 @@
 "Assets/Scripts/Level 1/3/HighlightTextAndFillImage3.cs"
 "Assets/Scripts/Level 1/LetterBox.cs"
 "Assets/Scripts/Level 1/NextSceneLoader.cs"
+"Assets/Scripts/Level 3/AutoDropZone3.cs"
 -langversion:9.0
 
 /deterministic

@@ -25,6 +25,9 @@ TagManager:
   - Z
   - +
   - ','
+  - int
+  - bool
+  - string
   layers:
   - Default
   - TransparentFX
