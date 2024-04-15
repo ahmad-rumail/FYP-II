@@ -2,27 +2,18 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class AutoDropZone3 : MonoBehaviour, IDropHandler
 {
-    public Color correctColor = Color.green;
-    public Color incorrectColor = Color.red;
     public float correctColorDuration = 2f;
     public float incorrectColorDuration = 2f;
     public Transform letterBox; // Reference to the letter box transform
-
-    // New public variable to store original color
-    public Color originalColor;
+    public string nextSceneName; // Name of the next scene to load
 
     public int totalCorrectPlacementsNeeded = 5; // Total number of correct placements needed
 
     private int correctPlacements = 0;
-
-    private void Start()
-    {
-        // Store the original color
-        originalColor = GetComponent<Graphic>().color;
-    }
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -36,7 +27,6 @@ public class AutoDropZone3 : MonoBehaviour, IDropHandler
             {
                 draggable.IsCorrect = true;
                 draggable.IsLocked = true;
-                SetColor(draggable.gameObject, correctColor);
                 StartCoroutine(LockCorrectObject(draggable));
 
                 correctPlacements++;
@@ -48,13 +38,12 @@ public class AutoDropZone3 : MonoBehaviour, IDropHandler
                 if (correctPlacements == totalCorrectPlacementsNeeded)
                 {
                     Debug.Log("All correct placements achieved. Proceeding to next stage...");
-                    // Proceed to the next stage or perform any desired action
+                    // Start coroutine to load the next scene after a delay
+                    StartCoroutine(LoadNextSceneAfterDelay(5f));
                 }
             }
             else
             {
-                // Highlight the dropped object indicating it's incorrect
-                SetColor(draggable.gameObject, incorrectColor);
                 StartCoroutine(ReturnIncorrectObject(draggable));
             }
 
@@ -81,13 +70,13 @@ public class AutoDropZone3 : MonoBehaviour, IDropHandler
     private IEnumerator LockCorrectObject(AutoDraggable draggable)
     {
         yield return new WaitForSeconds(correctColorDuration);
-        SetColor(draggable.gameObject, originalColor); // Reset color to original color
+        // You can reset color here if needed
     }
 
     private IEnumerator ReturnIncorrectObject(AutoDraggable draggable)
     {
         yield return new WaitForSeconds(incorrectColorDuration);
-        SetColor(draggable.gameObject, originalColor); // Reset color to original color
+        // You can reset color here if needed
 
         // Return the incorrect object to its original position or the letter box
         if (draggable.IsLocked)
@@ -124,12 +113,9 @@ public class AutoDropZone3 : MonoBehaviour, IDropHandler
         }
     }
 
-    private void SetColor(GameObject obj, Color color)
+    private IEnumerator LoadNextSceneAfterDelay(float delay)
     {
-        Graphic graphic = obj.GetComponent<Graphic>();
-        if (graphic != null)
-        {
-            graphic.color = color;
-        }
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(nextSceneName);
     }
 }
