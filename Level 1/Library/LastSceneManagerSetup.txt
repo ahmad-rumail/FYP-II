@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Level 3/Level 4-3.unity
+- path: Assets/Scenes/Shortlisted Screens for Level 1/Level1.1 2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
